@@ -57,6 +57,11 @@ body {
 	display: block;
 }
 
+.sub-heading {
+    font-style: oblique;
+    font-size: 22px;
+}
+
 .social-icon:hover {
 	color: #ffffff;
 	background-color: #428bca;
